@@ -7,6 +7,7 @@
 choco install netfx-4.8 /y
 choco install vcredist2017 /y
 
+
 ## linha web
 choco install bitnami-xampp /y
 choco install composer /y
@@ -16,6 +17,11 @@ choco install git /y
 choco install nodejs /y
 choco install mongodb /y
 choco install mongodb-shell /y
+
+##linha Desktop
+choco install ojdkbuild8 /y
+choco install python /y
+choco install pip /y
 
 ## Ferramentas extras
 choco install postman /y
